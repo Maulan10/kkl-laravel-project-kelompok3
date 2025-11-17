@@ -1,2 +1,2 @@
 # kkl-laravel-project-kelompok3
--mengelola input nilai
+sistem input nilai, kelola jadwal dan semester
